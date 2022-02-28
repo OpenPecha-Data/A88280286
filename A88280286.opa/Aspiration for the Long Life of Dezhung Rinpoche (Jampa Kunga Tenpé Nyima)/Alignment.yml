@@ -1,0 +1,28 @@
+segment_sources:
+  PDAF2B79F:
+    type: origin_type
+    relation: translation
+    language: en
+  P02D29113:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  35ab4cc250d74663a81057eccbd8ba16:
+    PDAF2B79F: c6076c043fa94f72ae9b3791b523c591
+    P02D29113: fe1bdc7ee875430b875db45359db3b4a
+  a16cce46f6144d208148e5600a00c42f:
+    PDAF2B79F: 42333cb9beb345c68f038ca8e317c70c
+    P02D29113: cf903145e81c4838b047758f19808712
+  92676e58517f4d6a9845d2b23e168599:
+    PDAF2B79F: b3fa8fca95b4419fbc70e2418e10f26d
+    P02D29113: 126ccfa1960e4d278450fccf423bcac5
+  8cd0bae2c9e949649bf5ed68382bfb78:
+    PDAF2B79F: aed1c4fd43f24d4caf6e282fe8232acd
+    P02D29113: dc24c9efd1db4d4fb34b70082e92c1b0
+  bae0a3824fa444a2acca0eff5709e861:
+    PDAF2B79F: d217237749ff456c8acf2c43f78a349d
+    P02D29113: 5b377e826b0f4e0dbc7107f4bc3c8e07
+  cf6d24ab583d4143b468fcfdf334554d:
+    PDAF2B79F: e9eb76157ca94f29915b60112b7dbc4c
+    P02D29113: 24f1f711556e4349b03931f7f196e86a
